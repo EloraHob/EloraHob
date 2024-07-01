@@ -24,7 +24,7 @@ I'm a recent Informatics graduate 🎓 based in Atlanta, GA. I'm passionate abou
 - Tailwind CSS (for streamlined styling and design)
 - MobX (for state management in React applications)
 
-## 👾 Academic Projects:
+## 💼 Academic Projects:
 
 * 💊 **Pharmapedia:** Utilized Next.js with Bootstrap and CSS to develop an interactive web application that teaches users about their medications and checks for drug interactions.
 * 🎮 **For Anything Esports:** Built a full-stack web platform (HTML, CSS, JavaScript, Node.js, MySQL) as a Capstone project for freelance esports professionals to showcase their skills and network with others in the esports industry.
