@@ -19,7 +19,7 @@ I'm a recent Informatics graduate 🎓 based in Atlanta, GA. I'm passionate abou
 * **Cloud Platforms:** AWS (S3), Firebase, Netlify, Vercel
 * **Other:** Git, GitHub, JIRA
 
-## 🎓 Currently Learning:
+## 📚 Currently Learning:
 
 - Tailwind CSS (for streamlined styling and design)
 - MobX (for state management in React applications)
